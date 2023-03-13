@@ -1,8 +1,8 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
+- A Cecilie Amalie Tønder Jensen
+- B Cecilie Møller Nielsen
 - C
 
 This repository contains  
