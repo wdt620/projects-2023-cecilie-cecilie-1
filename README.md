@@ -1,9 +1,8 @@
-# \[Group name\]
+# Cecilie og Cecilie 
 
 **Group members:**
-- A Cecilie Amalie Tønder Jensen
-- B Cecilie Møller Nielsen
-- C
+- Cecilie Amalie Tønder Jensen
+- Cecilie Møller Nielsen
 
 This repository contains  
 1. Inaugural project. 
