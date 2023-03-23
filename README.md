@@ -1,8 +1,8 @@
 # Gruppe: Cecilie og Cecilie 
 
 **Group members:**
-- Cecilie Amalie Tønder Jensen
-- Cecilie Møller Nielsen
+- Cecilie Amalie Tønder Jensen (Ex.class 8)
+- Cecilie Møller Nielsen (Ex.class 7)
 
 This repository contains  
 1. Inaugural project. 
